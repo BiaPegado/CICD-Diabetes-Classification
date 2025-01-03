@@ -21,7 +21,7 @@ def balance_classes(df, target_column):
 @pytest.fixture
 def sample_data():
     # Carregar o dataset completo e pegar uma amostra
-    dataset_path = "dataset_balanceado.csv"  
+    dataset_path = "Data/dataset_balanceado.csv"  
     df = pd.read_csv(dataset_path)
 
     # Garantir que a amostra tenha pelo menos alguns exemplos de cada classe

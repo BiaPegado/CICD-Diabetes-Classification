@@ -1,0 +1,6 @@
+pandas
+gdown
+pycaret
+pytest
+scikit-learn
+joblib
