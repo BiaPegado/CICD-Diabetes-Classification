@@ -1,6 +1,8 @@
 pandas
-black
-pycaret
-pytest
 scikit-learn
+numpy
+matplotlib
+skops
+black
+pytest
 joblib
