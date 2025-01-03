@@ -53,7 +53,7 @@ evaluation_results = exp.evaluate_model(final_model)
 dest = "Results/"
 os.makedirs(dest, exist_ok=True)
 
-filename = "Confusion_Matrix.png"
+filename = "confusion_matrix.png"
 exp.plot_model(final_model, plot="confusion_matrix", save=True)
 shutil.move(filename, os.path.join(dest, filename))
 
