@@ -5,24 +5,33 @@ on:
   pull_request:
     branches: [ "main" ]
   workflow_dispatch:
-  
+
 permissions: write-all
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: iterative/setup-cml@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11 
+
       - name: Install Packages
         run: make install
+
       - name: Format
         run: make format
+
       - name: Train
         run: make train
+
       - name: Evaluation
         env:
           REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: make eval
+
       - name: Update Branch
         env:
           NAME: ${{ secrets.USER_NAME }}
