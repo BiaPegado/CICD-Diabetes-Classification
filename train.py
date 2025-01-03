@@ -50,13 +50,6 @@ exp.save_model(final_model, 'Model/diabetes_model')
 
 evaluation_results = exp.evaluate_model(final_model)
 
-dest = "Results/"
-os.makedirs(dest, exist_ok=True)
-
-filename = "confusion_matrix.png"
-exp.plot_model(final_model, plot="confusion_matrix", save=True, display_format="png")
-shutil.move(filename, os.path.join(dest, filename))
-
 predictions = exp.predict_model(final_model)
 y_true = predictions['diabetes']  
 y_pred = predictions['prediction_label']  
