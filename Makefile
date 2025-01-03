@@ -1,5 +1,5 @@
 install:
-	pip install --upgrade pip &&\
+	pip install --upgrade pip && \
 		pip install -r requirements.txt
 
 format:	
@@ -36,4 +36,7 @@ push-hub:
 
 deploy: hf-login push-hub
 
-all: install format train eval update-branch deploy
+test:
+	pytest Tests/
+
+all: install format train eval test update-branch deploy
