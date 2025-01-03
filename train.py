@@ -54,7 +54,7 @@ dest = "Results/"
 os.makedirs(dest, exist_ok=True)
 
 filename = "confusion_matrix.png"
-exp.plot_model(final_model, plot="confusion_matrix", save=True)
+exp.plot_model(final_model, plot="confusion_matrix", save=True, display_format="png")
 shutil.move(filename, os.path.join(dest, filename))
 
 predictions = exp.predict_model(final_model)
