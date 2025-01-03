@@ -5,3 +5,5 @@ matplotlib
 skops
 black
 gradio
+pycaret
+pytest
