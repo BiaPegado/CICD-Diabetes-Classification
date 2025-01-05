@@ -10,7 +10,7 @@ def predict_diabetes(age, gender, bmi, hypertension, heart_disease, smoking_hist
     # Criar um dataframe com os nomes corretos
     input_data = pd.DataFrame({
         'age': [age],
-        'gender': [1 if gender == "Masculino" else 0],  # Converta para numérico, se necessário
+        'gender': [1 if gender == "Masculino" else 0],  
         'bmi': [bmi],
         'hypertension': [1 if hypertension else 0],
         'heart_disease': [1 if heart_disease else 0],
@@ -39,9 +39,9 @@ inputs = [
 
 # Criar a interface
 interface = gr.Interface(
-    fn=predict_diabetes,  # Função que faz a previsão
-    inputs=inputs,  # Entradas da interface
-    outputs="text",  # Saída de texto
+    fn=predict_diabetes, 
+    inputs=inputs, 
+    outputs="text", 
     title="Previsão de Diabetes",
     description="Insira as informações do paciente para prever a presença de diabetes."
 )
