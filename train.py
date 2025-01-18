@@ -122,7 +122,7 @@ def upload_metrics_to_wandb(accuracy, recall, precision, f1):
     metrics_table.add_data("F1-Score", f1)
     wandb.log({"Model Metrics": metrics_table})
 
-def find_model():
+def find_model(df):
     run = wandb.init(project=params.WANDB_PROJECT, entity=params.ENTITY, job_type="upload", config=params.CONFIG)
     
     exp = ClassificationExperiment()
@@ -172,6 +172,6 @@ def find_model():
 def build_model():
     df = balance_df()
     set_expectations(df)
-    find_model()
+    find_model(df)
 
 build_model()
