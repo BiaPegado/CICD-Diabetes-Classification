@@ -7,4 +7,4 @@ black
 pytest
 pycaret
 joblib
-great-expectations
+great_expectations==0.18.12
