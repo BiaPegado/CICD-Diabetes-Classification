@@ -7,3 +7,4 @@ black
 pytest
 pycaret
 joblib
+great-expectations
