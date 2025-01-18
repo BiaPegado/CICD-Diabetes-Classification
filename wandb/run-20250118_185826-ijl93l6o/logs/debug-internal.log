@@ -1,0 +1,17 @@
+{"time":"2025-01-18T18:58:26.9246008-03:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-01-18T18:58:26.9246008-03:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\abia0\\OneDrive\\Área de Trabalho\\Projetos\\Faculdade\\topicos_especiais\\Diabetes-Classification\\Diabetes-Prediction\\wandb\\run-20250118_185826-ijl93l6o\\logs\\debug-core.log"}
+{"time":"2025-01-18T18:58:27.0433254-03:00","level":"INFO","msg":"created new stream","id":"ijl93l6o"}
+{"time":"2025-01-18T18:58:27.0433254-03:00","level":"INFO","msg":"stream: started","id":"ijl93l6o"}
+{"time":"2025-01-18T18:58:27.0433254-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"ijl93l6o"}
+{"time":"2025-01-18T18:58:27.0433254-03:00","level":"INFO","msg":"handler: started","stream_id":"ijl93l6o"}
+{"time":"2025-01-18T18:58:27.0433254-03:00","level":"INFO","msg":"sender: started","stream_id":"ijl93l6o"}
+{"time":"2025-01-18T18:58:27.4129244-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-18T18:59:05.4431323-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-18T18:59:05.443486-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-18T18:59:06.4449088-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-ijl93l6o-ModelMetrics","runtime_seconds":1.3678641,"subtasks":[{"desc":"Model Metrics.table.json","runtime_seconds":0.4839772,"progress":"529B/529B"}]},{"desc":"uploading config.yaml","runtime_seconds":0.320096,"progress":"810B/810B"}],"total_operations":2}}
+{"time":"2025-01-18T18:59:10.1607645-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-18T18:59:11.5048111-03:00","level":"INFO","msg":"stream: closing","id":"ijl93l6o"}
+{"time":"2025-01-18T18:59:11.5048111-03:00","level":"INFO","msg":"handler: closed","stream_id":"ijl93l6o"}
+{"time":"2025-01-18T18:59:11.5048111-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ijl93l6o"}
+{"time":"2025-01-18T18:59:11.5048111-03:00","level":"INFO","msg":"sender: closed","stream_id":"ijl93l6o"}
+{"time":"2025-01-18T18:59:11.5054822-03:00","level":"INFO","msg":"stream: closed","id":"ijl93l6o"}

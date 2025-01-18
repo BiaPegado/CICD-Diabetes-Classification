@@ -1,0 +1,17 @@
+{"time":"2025-01-18T18:27:01.160813-03:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-01-18T18:27:01.160813-03:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\abia0\\OneDrive\\Área de Trabalho\\Projetos\\Faculdade\\topicos_especiais\\Diabetes-Classification\\Diabetes-Prediction\\wandb\\run-20250118_182701-gxtrlp10\\logs\\debug-core.log"}
+{"time":"2025-01-18T18:27:01.2758447-03:00","level":"INFO","msg":"created new stream","id":"gxtrlp10"}
+{"time":"2025-01-18T18:27:01.2758447-03:00","level":"INFO","msg":"stream: started","id":"gxtrlp10"}
+{"time":"2025-01-18T18:27:01.2758447-03:00","level":"INFO","msg":"handler: started","stream_id":"gxtrlp10"}
+{"time":"2025-01-18T18:27:01.2758447-03:00","level":"INFO","msg":"sender: started","stream_id":"gxtrlp10"}
+{"time":"2025-01-18T18:27:01.2758447-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"gxtrlp10"}
+{"time":"2025-01-18T18:27:01.665205-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-18T18:27:04.3612995-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-18T18:27:04.3618589-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-18T18:27:05.366372-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact diabetes","runtime_seconds":1.008584}],"total_operations":1}}
+{"time":"2025-01-18T18:27:08.6545468-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-18T18:27:09.9928048-03:00","level":"INFO","msg":"stream: closing","id":"gxtrlp10"}
+{"time":"2025-01-18T18:27:09.9928048-03:00","level":"INFO","msg":"handler: closed","stream_id":"gxtrlp10"}
+{"time":"2025-01-18T18:27:09.9928048-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"gxtrlp10"}
+{"time":"2025-01-18T18:27:09.9928048-03:00","level":"INFO","msg":"sender: closed","stream_id":"gxtrlp10"}
+{"time":"2025-01-18T18:27:09.9928048-03:00","level":"INFO","msg":"stream: closed","id":"gxtrlp10"}

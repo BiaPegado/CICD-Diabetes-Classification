@@ -1,0 +1,17 @@
+{"time":"2025-01-18T17:28:48.7147432-03:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-01-18T17:28:48.7147432-03:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\abia0\\OneDrive\\Área de Trabalho\\Projetos\\Faculdade\\topicos_especiais\\Diabetes-Classification\\Diabetes-Prediction\\wandb\\run-20250118_172846-ppfk1ab3\\logs\\debug-core.log"}
+{"time":"2025-01-18T17:28:48.8387683-03:00","level":"INFO","msg":"created new stream","id":"ppfk1ab3"}
+{"time":"2025-01-18T17:28:48.8387683-03:00","level":"INFO","msg":"stream: started","id":"ppfk1ab3"}
+{"time":"2025-01-18T17:28:48.8387683-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"ppfk1ab3"}
+{"time":"2025-01-18T17:28:48.8387683-03:00","level":"INFO","msg":"sender: started","stream_id":"ppfk1ab3"}
+{"time":"2025-01-18T17:28:48.8387683-03:00","level":"INFO","msg":"handler: started","stream_id":"ppfk1ab3"}
+{"time":"2025-01-18T17:28:49.2021904-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-18T17:29:33.4686541-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-18T17:29:33.4693305-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-18T17:29:34.4780258-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.5635114},{"desc":"uploading config.yaml","runtime_seconds":0.3143522,"progress":"830B/830B"}],"total_operations":2}}
+{"time":"2025-01-18T17:29:34.6559372-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-18T17:29:36.0134007-03:00","level":"INFO","msg":"stream: closing","id":"ppfk1ab3"}
+{"time":"2025-01-18T17:29:36.0134007-03:00","level":"INFO","msg":"handler: closed","stream_id":"ppfk1ab3"}
+{"time":"2025-01-18T17:29:36.0134007-03:00","level":"INFO","msg":"sender: closed","stream_id":"ppfk1ab3"}
+{"time":"2025-01-18T17:29:36.0134007-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ppfk1ab3"}
+{"time":"2025-01-18T17:29:36.0134007-03:00","level":"INFO","msg":"stream: closed","id":"ppfk1ab3"}

@@ -1,0 +1,60 @@
+2025-01-18 17:30:48,912 INFO    MainThread:2600 [wandb_setup.py:_flush():79] Current SDK version is 0.18.7
+2025-01-18 17:30:48,912 INFO    MainThread:2600 [wandb_setup.py:_flush():79] Configure stats pid to 2600
+2025-01-18 17:30:48,912 INFO    MainThread:2600 [wandb_setup.py:_flush():79] Loading settings from C:\Users\abia0\.config\wandb\settings
+2025-01-18 17:30:48,913 INFO    MainThread:2600 [wandb_setup.py:_flush():79] Loading settings from C:\Users\abia0\OneDrive\Área de Trabalho\Projetos\Faculdade\topicos_especiais\Diabetes-Classification\Diabetes-Prediction\wandb\settings
+2025-01-18 17:30:48,913 INFO    MainThread:2600 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2025-01-18 17:30:48,913 INFO    MainThread:2600 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2025-01-18 17:30:48,913 INFO    MainThread:2600 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2025-01-18 17:30:48,913 INFO    MainThread:2600 [wandb_setup.py:_flush():79] Applying login settings: {}
+2025-01-18 17:30:48,913 INFO    MainThread:2600 [wandb_init.py:_log_setup():533] Logging user logs to C:\Users\abia0\OneDrive\Área de Trabalho\Projetos\Faculdade\topicos_especiais\Diabetes-Classification\Diabetes-Prediction\wandb\run-20250118_173048-scz12fuy\logs\debug.log
+2025-01-18 17:30:48,915 INFO    MainThread:2600 [wandb_init.py:_log_setup():534] Logging internal logs to C:\Users\abia0\OneDrive\Área de Trabalho\Projetos\Faculdade\topicos_especiais\Diabetes-Classification\Diabetes-Prediction\wandb\run-20250118_173048-scz12fuy\logs\debug-internal.log
+2025-01-18 17:30:48,915 INFO    MainThread:2600 [wandb_init.py:init():619] calling init triggers
+2025-01-18 17:30:48,915 INFO    MainThread:2600 [wandb_init.py:init():626] wandb.init called with sweep_config: {}
+config: {'model': 'diabetes_model', 'dataset': 'Diabetes dataset', 'metric': 'Acurácia'}
+2025-01-18 17:30:48,915 INFO    MainThread:2600 [wandb_init.py:init():644] re-initializing run, found existing run on stack: vffnfbe5
+2025-01-18 17:30:48,918 INFO    MainThread:2600 [wandb_run.py:_finish():2155] finishing run ana-pegado-121-ufrn/diabetes-classification/vffnfbe5
+2025-01-18 17:30:48,919 INFO    MainThread:2600 [jupyter.py:save_history():459] not saving jupyter history
+2025-01-18 17:30:48,919 INFO    MainThread:2600 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2025-01-18 17:30:48,920 INFO    MainThread:2600 [wandb_init.py:_jupyter_teardown():461] cleaning up jupyter logic
+2025-01-18 17:30:48,920 INFO    MainThread:2600 [wandb_run.py:_atexit_cleanup():2420] got exitcode: 0
+2025-01-18 17:30:48,920 INFO    MainThread:2600 [wandb_run.py:_restore():2402] restore
+2025-01-18 17:30:48,921 INFO    MainThread:2600 [wandb_run.py:_restore():2408] restore done
+2025-01-18 17:30:53,971 INFO    MainThread:2600 [wandb_run.py:_footer_history_summary_info():3960] rendering history
+2025-01-18 17:30:53,975 INFO    MainThread:2600 [wandb_run.py:_footer_history_summary_info():3992] rendering summary
+2025-01-18 17:30:53,989 INFO    MainThread:2600 [wandb_run.py:_footer_sync_info():3921] logging synced files
+2025-01-18 17:30:53,996 INFO    MainThread:2600 [wandb_init.py:init():669] starting backend
+2025-01-18 17:30:53,996 INFO    MainThread:2600 [wandb_init.py:init():673] sending inform_init request
+2025-01-18 17:30:53,998 INFO    MainThread:2600 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=spawn, using: spawn
+2025-01-18 17:30:54,000 INFO    MainThread:2600 [wandb_init.py:init():686] backend started and connected
+2025-01-18 17:30:54,008 INFO    MainThread:2600 [wandb_run.py:_label_probe_notebook():1339] probe notebook
+2025-01-18 17:30:54,008 INFO    MainThread:2600 [wandb_run.py:_label_probe_notebook():1349] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2025-01-18 17:30:54,009 INFO    MainThread:2600 [wandb_init.py:init():781] updated telemetry
+2025-01-18 17:30:54,058 INFO    MainThread:2600 [wandb_init.py:init():814] communicating run to backend with 90.0 second timeout
+2025-01-18 17:30:54,485 INFO    MainThread:2600 [wandb_init.py:init():867] starting run threads in backend
+2025-01-18 17:30:54,765 INFO    MainThread:2600 [wandb_run.py:_console_start():2456] atexit reg
+2025-01-18 17:30:54,765 INFO    MainThread:2600 [wandb_run.py:_redirect():2305] redirect: wrap_raw
+2025-01-18 17:30:54,765 INFO    MainThread:2600 [wandb_run.py:_redirect():2370] Wrapping output streams.
+2025-01-18 17:30:54,766 INFO    MainThread:2600 [wandb_run.py:_redirect():2395] Redirects installed.
+2025-01-18 17:30:54,766 INFO    MainThread:2600 [wandb_init.py:init():911] run started, returning control to user process
+2025-01-18 18:05:35,648 INFO    MainThread:2600 [wandb_setup.py:_flush():79] Current SDK version is 0.18.7
+2025-01-18 18:05:35,648 INFO    MainThread:2600 [wandb_setup.py:_flush():79] Configure stats pid to 2600
+2025-01-18 18:05:35,648 INFO    MainThread:2600 [wandb_setup.py:_flush():79] Loading settings from C:\Users\abia0\.config\wandb\settings
+2025-01-18 18:05:35,649 INFO    MainThread:2600 [wandb_setup.py:_flush():79] Loading settings from C:\Users\abia0\OneDrive\Área de Trabalho\Projetos\Faculdade\topicos_especiais\Diabetes-Classification\Diabetes-Prediction\wandb\settings
+2025-01-18 18:05:35,649 INFO    MainThread:2600 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2025-01-18 18:05:35,649 INFO    MainThread:2600 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2025-01-18 18:05:35,650 INFO    MainThread:2600 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2025-01-18 18:05:35,650 INFO    MainThread:2600 [wandb_setup.py:_flush():79] Applying login settings: {}
+2025-01-18 18:05:35,650 INFO    MainThread:2600 [wandb_init.py:_log_setup():533] Logging user logs to C:\Users\abia0\OneDrive\Área de Trabalho\Projetos\Faculdade\topicos_especiais\Diabetes-Classification\Diabetes-Prediction\wandb\run-20250118_180535-fcpjbvsj\logs\debug.log
+2025-01-18 18:05:35,651 INFO    MainThread:2600 [wandb_init.py:_log_setup():534] Logging internal logs to C:\Users\abia0\OneDrive\Área de Trabalho\Projetos\Faculdade\topicos_especiais\Diabetes-Classification\Diabetes-Prediction\wandb\run-20250118_180535-fcpjbvsj\logs\debug-internal.log
+2025-01-18 18:05:35,651 INFO    MainThread:2600 [wandb_init.py:_jupyter_setup():479] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000024BCF09B5D0>
+2025-01-18 18:05:35,651 INFO    MainThread:2600 [wandb_init.py:init():619] calling init triggers
+2025-01-18 18:05:35,651 INFO    MainThread:2600 [wandb_init.py:init():626] wandb.init called with sweep_config: {}
+config: {'model': 'diabetes_model', 'dataset': 'Diabetes dataset', 'metric': 'Acurácia'}
+2025-01-18 18:05:35,651 INFO    MainThread:2600 [wandb_init.py:init():644] re-initializing run, found existing run on stack: scz12fuy
+2025-01-18 18:05:35,655 INFO    MainThread:2600 [wandb_run.py:_finish():2155] finishing run ana-pegado-121-ufrn/diabetes-classification/scz12fuy
+2025-01-18 18:05:35,656 INFO    MainThread:2600 [wandb_run.py:_atexit_cleanup():2420] got exitcode: 0
+2025-01-18 18:05:35,656 INFO    MainThread:2600 [wandb_run.py:_restore():2402] restore
+2025-01-18 18:05:35,657 INFO    MainThread:2600 [wandb_run.py:_restore():2408] restore done
+2025-01-18 18:05:40,822 INFO    MainThread:2600 [wandb_run.py:_footer_history_summary_info():3960] rendering history
+2025-01-18 18:05:40,823 INFO    MainThread:2600 [wandb_run.py:_footer_history_summary_info():3992] rendering summary
+2025-01-18 18:05:40,834 INFO    MainThread:2600 [wandb_run.py:_footer_sync_info():3921] logging synced files

@@ -1,0 +1,5 @@
+Fitting 10 folds for each of 10 candidates, totalling 100 fits
+Original model was better than the tuned model, hence it will be returned. NOTE: The display metrics are for the tuned model (not the original one).
+AdaBoostClassifier(algorithm='SAMME.R', estimator=None, learning_rate=1.0,
+                   n_estimators=50, random_state=123)
+Transformation Pipeline and Model Successfully Saved

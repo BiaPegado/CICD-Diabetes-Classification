@@ -1,0 +1,17 @@
+{"time":"2025-01-18T18:22:45.854955-03:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-01-18T18:22:45.854955-03:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\abia0\\OneDrive\\Área de Trabalho\\Projetos\\Faculdade\\topicos_especiais\\Diabetes-Classification\\Diabetes-Prediction\\wandb\\run-20250118_182245-g5sul291\\logs\\debug-core.log"}
+{"time":"2025-01-18T18:22:45.9813108-03:00","level":"INFO","msg":"created new stream","id":"g5sul291"}
+{"time":"2025-01-18T18:22:45.9813108-03:00","level":"INFO","msg":"stream: started","id":"g5sul291"}
+{"time":"2025-01-18T18:22:45.9813108-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"g5sul291"}
+{"time":"2025-01-18T18:22:45.9813108-03:00","level":"INFO","msg":"handler: started","stream_id":"g5sul291"}
+{"time":"2025-01-18T18:22:45.9813108-03:00","level":"INFO","msg":"sender: started","stream_id":"g5sul291"}
+{"time":"2025-01-18T18:22:47.0439681-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-18T18:22:59.5693901-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-18T18:22:59.5698735-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-18T18:23:00.5746469-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.597839}],"total_operations":1}}
+{"time":"2025-01-18T18:23:00.6874366-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-18T18:23:02.0593473-03:00","level":"INFO","msg":"stream: closing","id":"g5sul291"}
+{"time":"2025-01-18T18:23:02.0593473-03:00","level":"INFO","msg":"handler: closed","stream_id":"g5sul291"}
+{"time":"2025-01-18T18:23:02.0593473-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"g5sul291"}
+{"time":"2025-01-18T18:23:02.0593473-03:00","level":"INFO","msg":"sender: closed","stream_id":"g5sul291"}
+{"time":"2025-01-18T18:23:02.0593473-03:00","level":"INFO","msg":"stream: closed","id":"g5sul291"}

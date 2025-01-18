@@ -1,0 +1,17 @@
+{"time":"2025-01-18T18:49:06.5659556-03:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-01-18T18:49:06.5666026-03:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\abia0\\OneDrive\\Área de Trabalho\\Projetos\\Faculdade\\topicos_especiais\\Diabetes-Classification\\Diabetes-Prediction\\wandb\\run-20250118_184906-wcdr7f7a\\logs\\debug-core.log"}
+{"time":"2025-01-18T18:49:06.6871258-03:00","level":"INFO","msg":"created new stream","id":"wcdr7f7a"}
+{"time":"2025-01-18T18:49:06.6871258-03:00","level":"INFO","msg":"stream: started","id":"wcdr7f7a"}
+{"time":"2025-01-18T18:49:06.6871258-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"wcdr7f7a"}
+{"time":"2025-01-18T18:49:06.6871258-03:00","level":"INFO","msg":"handler: started","stream_id":"wcdr7f7a"}
+{"time":"2025-01-18T18:49:06.6871258-03:00","level":"INFO","msg":"sender: started","stream_id":"wcdr7f7a"}
+{"time":"2025-01-18T18:49:07.3434282-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-18T18:49:10.4489636-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-18T18:49:10.4497009-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-18T18:49:11.4503584-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.6025716}],"total_operations":1}}
+{"time":"2025-01-18T18:49:11.5997109-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-18T18:49:12.932229-03:00","level":"INFO","msg":"stream: closing","id":"wcdr7f7a"}
+{"time":"2025-01-18T18:49:12.932229-03:00","level":"INFO","msg":"handler: closed","stream_id":"wcdr7f7a"}
+{"time":"2025-01-18T18:49:12.932229-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"wcdr7f7a"}
+{"time":"2025-01-18T18:49:12.932229-03:00","level":"INFO","msg":"sender: closed","stream_id":"wcdr7f7a"}
+{"time":"2025-01-18T18:49:12.9327361-03:00","level":"INFO","msg":"stream: closed","id":"wcdr7f7a"}

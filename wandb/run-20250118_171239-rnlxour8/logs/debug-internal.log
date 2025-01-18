@@ -1,0 +1,19 @@
+{"time":"2025-01-18T17:12:39.875844-03:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-01-18T17:12:39.8763846-03:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\abia0\\OneDrive\\Área de Trabalho\\Projetos\\Faculdade\\topicos_especiais\\Diabetes-Classification\\Diabetes-Prediction\\wandb\\run-20250118_171239-rnlxour8\\logs\\debug-core.log"}
+{"time":"2025-01-18T17:12:40.3410956-03:00","level":"INFO","msg":"created new stream","id":"rnlxour8"}
+{"time":"2025-01-18T17:12:40.3410956-03:00","level":"INFO","msg":"stream: started","id":"rnlxour8"}
+{"time":"2025-01-18T17:12:40.3410956-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"rnlxour8"}
+{"time":"2025-01-18T17:12:40.3410956-03:00","level":"INFO","msg":"sender: started","stream_id":"rnlxour8"}
+{"time":"2025-01-18T17:12:40.3410956-03:00","level":"INFO","msg":"handler: started","stream_id":"rnlxour8"}
+{"time":"2025-01-18T17:12:40.8297758-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-18T17:12:41.278935-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-18T17:13:02.1897597-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-18T17:13:02.2058524-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-18T17:13:02.2070923-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-18T17:13:03.2113534-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.7699961}],"total_operations":1}}
+{"time":"2025-01-18T17:13:05.4279579-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-18T17:13:06.7775418-03:00","level":"INFO","msg":"stream: closing","id":"rnlxour8"}
+{"time":"2025-01-18T17:13:06.7775418-03:00","level":"INFO","msg":"handler: closed","stream_id":"rnlxour8"}
+{"time":"2025-01-18T17:13:06.7775418-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"rnlxour8"}
+{"time":"2025-01-18T17:13:06.7775418-03:00","level":"INFO","msg":"sender: closed","stream_id":"rnlxour8"}
+{"time":"2025-01-18T17:13:06.7775418-03:00","level":"INFO","msg":"stream: closed","id":"rnlxour8"}

@@ -1,0 +1,19 @@
+{"time":"2025-01-18T17:16:50.0385103-03:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-01-18T17:16:50.0385103-03:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\abia0\\OneDrive\\Área de Trabalho\\Projetos\\Faculdade\\topicos_especiais\\Diabetes-Classification\\Diabetes-Prediction\\wandb\\run-20250118_171647-7lxzn1ih\\logs\\debug-core.log"}
+{"time":"2025-01-18T17:16:50.1613546-03:00","level":"INFO","msg":"created new stream","id":"7lxzn1ih"}
+{"time":"2025-01-18T17:16:50.1613546-03:00","level":"INFO","msg":"stream: started","id":"7lxzn1ih"}
+{"time":"2025-01-18T17:16:50.1613546-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"7lxzn1ih"}
+{"time":"2025-01-18T17:16:50.1613546-03:00","level":"INFO","msg":"handler: started","stream_id":"7lxzn1ih"}
+{"time":"2025-01-18T17:16:50.1613546-03:00","level":"INFO","msg":"sender: started","stream_id":"7lxzn1ih"}
+{"time":"2025-01-18T17:16:50.5740348-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-18T17:16:50.8095068-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-18T17:20:40.5775467-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-18T17:20:40.5956294-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-18T17:20:40.5961341-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-18T17:20:41.6017471-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.520346},{"desc":"uploading config.yaml","runtime_seconds":0.2716165,"progress":"830B/830B"}],"total_operations":2}}
+{"time":"2025-01-18T17:20:41.7688913-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-18T17:20:43.1054546-03:00","level":"INFO","msg":"stream: closing","id":"7lxzn1ih"}
+{"time":"2025-01-18T17:20:43.1054546-03:00","level":"INFO","msg":"handler: closed","stream_id":"7lxzn1ih"}
+{"time":"2025-01-18T17:20:43.1054546-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"7lxzn1ih"}
+{"time":"2025-01-18T17:20:43.1054546-03:00","level":"INFO","msg":"sender: closed","stream_id":"7lxzn1ih"}
+{"time":"2025-01-18T17:20:43.1054546-03:00","level":"INFO","msg":"stream: closed","id":"7lxzn1ih"}

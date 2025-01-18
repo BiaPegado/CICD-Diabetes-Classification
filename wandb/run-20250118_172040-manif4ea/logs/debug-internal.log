@@ -1,0 +1,17 @@
+{"time":"2025-01-18T17:20:43.1132278-03:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-01-18T17:20:43.1132278-03:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\abia0\\OneDrive\\Área de Trabalho\\Projetos\\Faculdade\\topicos_especiais\\Diabetes-Classification\\Diabetes-Prediction\\wandb\\run-20250118_172040-manif4ea\\logs\\debug-core.log"}
+{"time":"2025-01-18T17:20:43.2376946-03:00","level":"INFO","msg":"created new stream","id":"manif4ea"}
+{"time":"2025-01-18T17:20:43.2376946-03:00","level":"INFO","msg":"stream: started","id":"manif4ea"}
+{"time":"2025-01-18T17:20:43.2376946-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"manif4ea"}
+{"time":"2025-01-18T17:20:43.2376946-03:00","level":"INFO","msg":"handler: started","stream_id":"manif4ea"}
+{"time":"2025-01-18T17:20:43.2376946-03:00","level":"INFO","msg":"sender: started","stream_id":"manif4ea"}
+{"time":"2025-01-18T17:20:43.6021595-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-18T17:20:43.9273277-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-18T17:20:43.9278342-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-18T17:20:44.9372856-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.3675314},{"desc":"uploading config.yaml","runtime_seconds":0.1203328,"progress":"830B/830B"},{"desc":"uploading output.log","runtime_seconds":0.1203328,"progress":"54B/54B"}],"total_operations":3}}
+{"time":"2025-01-18T17:20:47.6853506-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-18T17:20:49.1180214-03:00","level":"INFO","msg":"stream: closing","id":"manif4ea"}
+{"time":"2025-01-18T17:20:49.1180214-03:00","level":"INFO","msg":"handler: closed","stream_id":"manif4ea"}
+{"time":"2025-01-18T17:20:49.1180214-03:00","level":"INFO","msg":"sender: closed","stream_id":"manif4ea"}
+{"time":"2025-01-18T17:20:49.1180214-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"manif4ea"}
+{"time":"2025-01-18T17:20:49.1180214-03:00","level":"INFO","msg":"stream: closed","id":"manif4ea"}

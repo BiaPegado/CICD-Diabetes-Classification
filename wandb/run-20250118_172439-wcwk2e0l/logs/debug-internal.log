@@ -1,0 +1,17 @@
+{"time":"2025-01-18T17:24:39.1925329-03:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-01-18T17:24:39.1925329-03:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\abia0\\OneDrive\\Área de Trabalho\\Projetos\\Faculdade\\topicos_especiais\\Diabetes-Classification\\Diabetes-Prediction\\wandb\\run-20250118_172439-wcwk2e0l\\logs\\debug-core.log"}
+{"time":"2025-01-18T17:24:39.3138201-03:00","level":"INFO","msg":"created new stream","id":"wcwk2e0l"}
+{"time":"2025-01-18T17:24:39.3138201-03:00","level":"INFO","msg":"stream: started","id":"wcwk2e0l"}
+{"time":"2025-01-18T17:24:39.3138201-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"wcwk2e0l"}
+{"time":"2025-01-18T17:24:39.3138201-03:00","level":"INFO","msg":"sender: started","stream_id":"wcwk2e0l"}
+{"time":"2025-01-18T17:24:39.3138201-03:00","level":"INFO","msg":"handler: started","stream_id":"wcwk2e0l"}
+{"time":"2025-01-18T17:24:39.7249896-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-18T17:24:40.0344923-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-18T17:24:40.0350403-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-18T17:24:41.0448264-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.3368912},{"desc":"uploading config.yaml","runtime_seconds":0.0911846,"progress":"830B/830B"},{"desc":"uploading output.log","runtime_seconds":0.0911846,"progress":"54B/54B"}],"total_operations":3}}
+{"time":"2025-01-18T17:24:41.4257995-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-18T17:24:42.8624207-03:00","level":"INFO","msg":"stream: closing","id":"wcwk2e0l"}
+{"time":"2025-01-18T17:24:42.8624207-03:00","level":"INFO","msg":"handler: closed","stream_id":"wcwk2e0l"}
+{"time":"2025-01-18T17:24:42.8624207-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"wcwk2e0l"}
+{"time":"2025-01-18T17:24:42.8624207-03:00","level":"INFO","msg":"sender: closed","stream_id":"wcwk2e0l"}
+{"time":"2025-01-18T17:24:42.8629711-03:00","level":"INFO","msg":"stream: closed","id":"wcwk2e0l"}

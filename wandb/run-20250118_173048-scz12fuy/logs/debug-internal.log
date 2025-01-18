@@ -1,0 +1,17 @@
+{"time":"2025-01-18T17:30:54.0012449-03:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-01-18T17:30:54.0012449-03:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\abia0\\OneDrive\\Área de Trabalho\\Projetos\\Faculdade\\topicos_especiais\\Diabetes-Classification\\Diabetes-Prediction\\wandb\\run-20250118_173048-scz12fuy\\logs\\debug-core.log"}
+{"time":"2025-01-18T17:30:54.119796-03:00","level":"INFO","msg":"created new stream","id":"scz12fuy"}
+{"time":"2025-01-18T17:30:54.119796-03:00","level":"INFO","msg":"stream: started","id":"scz12fuy"}
+{"time":"2025-01-18T17:30:54.119796-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"scz12fuy"}
+{"time":"2025-01-18T17:30:54.119796-03:00","level":"INFO","msg":"sender: started","stream_id":"scz12fuy"}
+{"time":"2025-01-18T17:30:54.119796-03:00","level":"INFO","msg":"handler: started","stream_id":"scz12fuy"}
+{"time":"2025-01-18T17:30:54.4897339-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-18T18:05:35.6572947-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-18T18:05:35.6588108-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-18T18:05:36.6709771-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.4030639},{"desc":"uploading config.yaml","runtime_seconds":0.1534865,"progress":"831B/831B"},{"desc":"uploading output.log","runtime_seconds":0.1534865,"progress":"217B/217B"}],"total_operations":3}}
+{"time":"2025-01-18T18:05:39.4807382-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-18T18:05:40.8393304-03:00","level":"INFO","msg":"stream: closing","id":"scz12fuy"}
+{"time":"2025-01-18T18:05:40.8393304-03:00","level":"INFO","msg":"handler: closed","stream_id":"scz12fuy"}
+{"time":"2025-01-18T18:05:40.8393304-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"scz12fuy"}
+{"time":"2025-01-18T18:05:40.8393304-03:00","level":"INFO","msg":"sender: closed","stream_id":"scz12fuy"}
+{"time":"2025-01-18T18:05:40.8398381-03:00","level":"INFO","msg":"stream: closed","id":"scz12fuy"}

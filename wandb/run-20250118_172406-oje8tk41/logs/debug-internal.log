@@ -1,0 +1,17 @@
+{"time":"2025-01-18T17:24:06.7713833-03:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-01-18T17:24:06.7713833-03:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\abia0\\OneDrive\\Área de Trabalho\\Projetos\\Faculdade\\topicos_especiais\\Diabetes-Classification\\Diabetes-Prediction\\wandb\\run-20250118_172406-oje8tk41\\logs\\debug-core.log"}
+{"time":"2025-01-18T17:24:06.8906396-03:00","level":"INFO","msg":"created new stream","id":"oje8tk41"}
+{"time":"2025-01-18T17:24:06.8906396-03:00","level":"INFO","msg":"stream: started","id":"oje8tk41"}
+{"time":"2025-01-18T17:24:06.8906396-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"oje8tk41"}
+{"time":"2025-01-18T17:24:06.8906396-03:00","level":"INFO","msg":"handler: started","stream_id":"oje8tk41"}
+{"time":"2025-01-18T17:24:06.8906396-03:00","level":"INFO","msg":"sender: started","stream_id":"oje8tk41"}
+{"time":"2025-01-18T17:24:07.5272349-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-18T17:24:07.8446617-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-18T17:24:07.8457009-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-18T17:24:08.8567408-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.3391918},{"desc":"uploading config.yaml","runtime_seconds":0.0888247,"progress":"830B/830B"},{"desc":"uploading output.log","runtime_seconds":0.0888247,"progress":"54B/54B"}],"total_operations":3}}
+{"time":"2025-01-18T17:24:11.4871878-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-18T17:24:12.8744862-03:00","level":"INFO","msg":"stream: closing","id":"oje8tk41"}
+{"time":"2025-01-18T17:24:12.8744862-03:00","level":"INFO","msg":"handler: closed","stream_id":"oje8tk41"}
+{"time":"2025-01-18T17:24:12.8744862-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"oje8tk41"}
+{"time":"2025-01-18T17:24:12.8744862-03:00","level":"INFO","msg":"sender: closed","stream_id":"oje8tk41"}
+{"time":"2025-01-18T17:24:12.8744862-03:00","level":"INFO","msg":"stream: closed","id":"oje8tk41"}

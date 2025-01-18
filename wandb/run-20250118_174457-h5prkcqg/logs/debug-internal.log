@@ -1,0 +1,21 @@
+{"time":"2025-01-18T17:44:57.6209009-03:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-01-18T17:44:57.6209009-03:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\abia0\\OneDrive\\Área de Trabalho\\Projetos\\Faculdade\\topicos_especiais\\Diabetes-Classification\\Diabetes-Prediction\\wandb\\run-20250118_174457-h5prkcqg\\logs\\debug-core.log"}
+{"time":"2025-01-18T17:44:57.7441392-03:00","level":"INFO","msg":"created new stream","id":"h5prkcqg"}
+{"time":"2025-01-18T17:44:57.7441392-03:00","level":"INFO","msg":"stream: started","id":"h5prkcqg"}
+{"time":"2025-01-18T17:44:57.7441392-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"h5prkcqg"}
+{"time":"2025-01-18T17:44:57.7441392-03:00","level":"INFO","msg":"handler: started","stream_id":"h5prkcqg"}
+{"time":"2025-01-18T17:44:57.7441392-03:00","level":"INFO","msg":"sender: started","stream_id":"h5prkcqg"}
+{"time":"2025-01-18T17:44:58.1621099-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-18T17:44:58.3865329-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-18T17:45:03.1846704-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-18T17:45:05.7390774-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-18T17:47:37.8559157-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-18T17:47:37.8792839-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-18T17:47:37.8797991-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-18T17:47:38.8880492-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.5926098},{"desc":"uploading config.yaml","runtime_seconds":0.3453455,"progress":"769B/769B"},{"desc":"uploading output.log","runtime_seconds":0.3453455,"progress":"54B/54B"}],"total_operations":3}}
+{"time":"2025-01-18T17:47:41.2175046-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-18T17:47:42.7612587-03:00","level":"INFO","msg":"stream: closing","id":"h5prkcqg"}
+{"time":"2025-01-18T17:47:42.7612587-03:00","level":"INFO","msg":"handler: closed","stream_id":"h5prkcqg"}
+{"time":"2025-01-18T17:47:42.7612587-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"h5prkcqg"}
+{"time":"2025-01-18T17:47:42.7612587-03:00","level":"INFO","msg":"sender: closed","stream_id":"h5prkcqg"}
+{"time":"2025-01-18T17:47:42.7612587-03:00","level":"INFO","msg":"stream: closed","id":"h5prkcqg"}

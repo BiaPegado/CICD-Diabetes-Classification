@@ -1,0 +1,17 @@
+{"time":"2025-01-18T17:47:42.7684072-03:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-01-18T17:47:42.7684072-03:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\abia0\\OneDrive\\Área de Trabalho\\Projetos\\Faculdade\\topicos_especiais\\Diabetes-Classification\\Diabetes-Prediction\\wandb\\run-20250118_174737-2cfivvzu\\logs\\debug-core.log"}
+{"time":"2025-01-18T17:47:42.8885698-03:00","level":"INFO","msg":"created new stream","id":"2cfivvzu"}
+{"time":"2025-01-18T17:47:42.8891124-03:00","level":"INFO","msg":"handler: started","stream_id":"2cfivvzu"}
+{"time":"2025-01-18T17:47:42.8891124-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"2cfivvzu"}
+{"time":"2025-01-18T17:47:42.8891124-03:00","level":"INFO","msg":"stream: started","id":"2cfivvzu"}
+{"time":"2025-01-18T17:47:42.8891124-03:00","level":"INFO","msg":"sender: started","stream_id":"2cfivvzu"}
+{"time":"2025-01-18T17:47:43.2488434-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-18T17:47:44.5411667-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-18T17:47:44.5419545-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-18T17:47:45.5486237-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact diabetes_model","runtime_seconds":1.0797154},{"desc":"uploading output.log","runtime_seconds":0.4831273,"progress":"54B/54B"}],"total_operations":2}}
+{"time":"2025-01-18T17:47:49.4431531-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-18T17:47:50.8302414-03:00","level":"INFO","msg":"stream: closing","id":"2cfivvzu"}
+{"time":"2025-01-18T17:47:50.8302414-03:00","level":"INFO","msg":"handler: closed","stream_id":"2cfivvzu"}
+{"time":"2025-01-18T17:47:50.8302414-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"2cfivvzu"}
+{"time":"2025-01-18T17:47:50.8302414-03:00","level":"INFO","msg":"sender: closed","stream_id":"2cfivvzu"}
+{"time":"2025-01-18T17:47:50.8307492-03:00","level":"INFO","msg":"stream: closed","id":"2cfivvzu"}
