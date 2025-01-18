@@ -35,30 +35,30 @@ diabetes_expectation_suite = ge.core.ExpectationSuite(
     expectation_suite_name="diabetes_expectation_suite"
 )
 
-diabetes_expectation_suite.add_expectation(
+aq_expectation_suite.add_expectation(
     ge.core.ExpectationConfiguration(
         expectation_type="expect_column_min_to_be_between",
         kwargs={
             "column": "blood_glucose_level",
             "min_value": 69,
-            "max_value": 500,
+            "max_value": 100,
             "strict_min": True
         }
     )
 )
 
-diabetes_expectation_suite.add_expectation(
+aq_expectation_suite.add_expectation(
     ge.core.ExpectationConfiguration(
         expectation_type="expect_column_values_to_be_between",
         kwargs={
             "column": "bmi",
-            "min_value": 9,
-            "max_value": 150
+            "min_value": 10,
+            "max_value": 50
         }
     )
 )
 
-diabetes_expectation_suite.add_expectation(
+aq_expectation_suite.add_expectation(
     ge.core.ExpectationConfiguration(
         expectation_type="expect_column_values_to_be_in_set",
         kwargs={
@@ -72,7 +72,6 @@ data_asset = ge.from_pandas(df)
 validation_results = data_asset.validate(expectation_suite=diabetes_expectation_suite)
 
 assert validation_results.success, "Interrompendo execução: validação falhou."
-
 
 from pycaret.classification import *
 
