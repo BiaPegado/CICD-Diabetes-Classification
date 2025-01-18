@@ -1,4 +1,4 @@
 Acuracia do modelo: 0.913
 Recall: 0.914
-Precis„o: 0.912
+Precis√£o: 0.912
 F1-Score: 0.913
