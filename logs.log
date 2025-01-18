@@ -30334,3 +30334,61 @@ Please also refer to the documentation for alternative solver options:
          verbose=False), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000024BC4F4DDA0>)
 2025-01-18 16:05:30,084:INFO:Checking exceptions
 2025-01-18 16:05:30,084:INFO:Preloading libraries
+2025-01-18 16:16:53,415:INFO:Initializing load_model()
+2025-01-18 16:16:53,415:INFO:load_model(model_name=diabetes_model, platform=None, authentication=None, verbose=True)
+2025-01-18 16:17:14,322:INFO:Initializing load_model()
+2025-01-18 16:17:14,322:INFO:load_model(model_name=model/diabetes_model, platform=None, authentication=None, verbose=True)
+2025-01-18 16:17:39,645:INFO:Initializing predict_model()
+2025-01-18 16:17:39,646:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000024BCD532010>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'hypertension',
+                                             'heart_disease', 'bmi',
+                                             'HbA1c_level',
+                                             'blood_glucose_level'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['gender', 'smoking_history'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['gender', 'smoking_history'],
+                                    transformer=OneHotEncoder(cols=['gender',
+                                                                    'smoking_history'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('actual_estimator', AdaBoostClassifier(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000024BCD79A2A0>)
+2025-01-18 16:17:39,646:INFO:Checking exceptions
+2025-01-18 16:17:39,646:INFO:Preloading libraries
+2025-01-18 16:17:39,646:INFO:Set up data.
+2025-01-18 16:17:39,648:INFO:Set up index.
+2025-01-18 16:18:02,717:INFO:Initializing predict_model()
+2025-01-18 16:18:02,717:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000024BCD393C10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'hypertension',
+                                             'heart_disease', 'bmi',
+                                             'HbA1c_level',
+                                             'blood_glucose_level'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['gender', 'smoking_history'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['gender', 'smoking_history'],
+                                    transformer=OneHotEncoder(cols=['gender',
+                                                                    'smoking_history'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('actual_estimator', AdaBoostClassifier(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000024BCD5E60C0>)
+2025-01-18 16:18:02,717:INFO:Checking exceptions
+2025-01-18 16:18:02,717:INFO:Preloading libraries
+2025-01-18 16:18:02,717:INFO:Set up data.
+2025-01-18 16:18:02,718:INFO:Set up index.
+2025-01-18 16:19:01,766:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-01-18 16:19:01,767:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-01-18 16:19:01,767:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-01-18 16:19:01,767:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-01-18 16:19:02,742:INFO:Initializing load_model()
+2025-01-18 16:19:02,742:INFO:load_model(model_name=model/diabetes_model, platform=None, authentication=None, verbose=True)
