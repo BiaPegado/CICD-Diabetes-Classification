@@ -6,3 +6,12 @@
 {"time":"2025-01-18T19:02:56.1092121-03:00","level":"INFO","msg":"handler: started","stream_id":"n9imf1ld"}
 {"time":"2025-01-18T19:02:56.1092121-03:00","level":"INFO","msg":"sender: started","stream_id":"n9imf1ld"}
 {"time":"2025-01-18T19:02:56.5125499-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-18T19:03:27.8382017-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-18T19:03:27.8382017-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-18T19:03:28.8452758-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-n9imf1ld-ModelMetrics","runtime_seconds":1.3199598},{"desc":"uploading config.yaml","runtime_seconds":0.3361081,"progress":"810B/810B"}],"total_operations":2}}
+{"time":"2025-01-18T19:03:30.1597932-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-18T19:03:31.5127027-03:00","level":"INFO","msg":"stream: closing","id":"n9imf1ld"}
+{"time":"2025-01-18T19:03:31.5127027-03:00","level":"INFO","msg":"handler: closed","stream_id":"n9imf1ld"}
+{"time":"2025-01-18T19:03:31.5127027-03:00","level":"INFO","msg":"sender: closed","stream_id":"n9imf1ld"}
+{"time":"2025-01-18T19:03:31.5127027-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"n9imf1ld"}
+{"time":"2025-01-18T19:03:31.5133744-03:00","level":"INFO","msg":"stream: closed","id":"n9imf1ld"}
