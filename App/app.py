@@ -24,7 +24,7 @@ def predict_diabetes(age, gender, bmi, hypertension, heart_disease, smoking_hist
 
 with gr.Blocks(theme=gr.themes.Soft()) as interface:
     gr.Markdown("""
-    # Previsão de Diabetes
+    # Diabetes Prediction
     Insira as informações do paciente para prever a presença de diabetes. Use valores precisos para obter resultados confiáveis.
     """)
 
