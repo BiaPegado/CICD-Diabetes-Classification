@@ -2,11 +2,7 @@ import gradio as gr
 import pandas as pd
 from pycaret.classification import load_model, predict_model
 
-<<<<<<< HEAD
 modelo = load_model('Model/diabetes_model')
-=======
-modelo = load_model('diabetes_model')
->>>>>>> 013fe07dd0b6795399e750b0fb6ac27b4f634d3a
 
 def predict_diabetes(age, gender, bmi, hypertension, heart_disease, smoking_history, hba1c_level, blood_glucose_level):
 
