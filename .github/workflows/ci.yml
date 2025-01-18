@@ -1,4 +1,5 @@
 name: Continuous Integration
+
 on:
   push:
     branches: [ "main" ]
@@ -7,11 +8,13 @@ on:
   workflow_dispatch:
 
 permissions: write-all
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      
       - uses: iterative/setup-cml@v2
 
       - name: Set up Python
@@ -26,11 +29,14 @@ jobs:
         run: make format
 
       - name: Train
+        env:
+          WANDB_API_KEY: ${{ secrets.WANDB_API_KEY }}
         run: make train
 
       - name: Evaluation
         env:
           REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WANDB_API_KEY: ${{ secrets.WANDB_API_KEY }}
         run: make eval
 
       - name: Update Branch
